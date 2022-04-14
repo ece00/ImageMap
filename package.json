@@ -1,0 +1,45 @@
+{
+  "name": "demo",
+  "version": "1.0.2",
+  "scripts": {
+    "ng": "ng",
+    "start": "ng serve",
+    "build": "ng build --configuration production",
+    "test": "ng test",
+    "lint": "ng lint"
+  },
+  "private": true,
+  "dependencies": {
+    "@angular/animations": "^8.2.8",
+    "@angular/common": "^8.2.8",
+    "@angular/compiler": "^8.2.8",
+    "@angular/core": "^8.2.8",
+    "@angular/forms": "^8.2.8",
+    "@angular/platform-browser": "^8.2.8",
+    "@angular/platform-browser-dynamic": "^8.2.8",
+    "@angular/router": "^8.2.8",
+    "browserify-fs": "^1.0.0",
+    "core-js": "^3.2.1",
+    "cors": "^2.8.5",
+    "file-saver": "^2.0.2",
+    "ngx-image-drawing": "^1.2.4",
+    "requirejs": "^2.3.6",
+    "rxjs": "^6.5.3",
+    "tslib": "^1.9.0",
+    "zone.js": "^0.10.2"
+  },
+  "devDependencies": {
+    "@angular-devkit/build-angular": "^0.803.6",
+    "@angular/cli": "^8.3.6",
+    "@angular/compiler-cli": "^8.2.8",
+    "@angular/language-service": "^8.2.8",
+    "@types/node": "^12.7.8",
+    "ts-node": "^8.4.1",
+    "tslint": "^5.20.0",
+    "typescript": "~3.4.5"
+  },
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
